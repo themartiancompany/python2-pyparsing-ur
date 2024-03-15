@@ -17,7 +17,7 @@ pkgname=(
   "${pkgbase}"
 )
 pkgver=2.4.7
-pkgrel=1
+pkgrel=8
 pkgdesc='General parsing module for Python'
 arch=(
   'any'

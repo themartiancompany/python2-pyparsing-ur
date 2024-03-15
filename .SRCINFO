@@ -1,7 +1,7 @@
 pkgbase = python2-pyparsing
 	pkgdesc = General parsing module for Python
 	pkgver = 2.4.7
-	pkgrel = 1
+	pkgrel = 8
 	url = https://github.com/pyparsing/pyparsing
 	arch = any
 	license = MIT
